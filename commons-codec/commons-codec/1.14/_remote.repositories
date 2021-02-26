@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 22:15:28 CST 2020
+commons-codec-1.14.pom>maven-releases=
+commons-codec-1.14.jar>maven-releases=
+commons-codec-1.14.pom>nexus=
+commons-codec-1.14.jar>nexus=

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:32:46 CST 2020
+commons-codec-1.10.pom>alimaven=
+commons-codec-1.10-sources.jar>nexus=
+commons-codec-1.10.pom>nexus=
+commons-codec-1.10.jar>nexus=
+commons-codec-1.10.jar>maven-releases=
+commons-codec-1.10.pom>maven-releases=
+commons-codec-1.10.jar>alimaven=
