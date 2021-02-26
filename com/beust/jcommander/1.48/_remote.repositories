@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:32:46 CST 2020
+jcommander-1.48.pom>nexus=
+jcommander-1.48.jar>alimaven=
+jcommander-1.48.jar>nexus=
+jcommander-1.48.pom>alimaven=
+jcommander-1.48.jar>maven-releases=
+jcommander-1.48.pom>maven-releases=

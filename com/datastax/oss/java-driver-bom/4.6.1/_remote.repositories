@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:16 CST 2020
+java-driver-bom-4.6.1.pom>maven-releases=
+java-driver-bom-4.6.1.pom>alimaven=
+java-driver-bom-4.6.1.pom>nexus=

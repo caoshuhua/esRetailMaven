@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 10 21:27:05 CST 2018
+http\://repository.atlassian.com/maven2/.error=Could not transfer artifact com.baomidou\:mybatis-plus-extension\:jar\:sources\:3.0-RELEASE from/to nexus (http\://repository.atlassian.com/maven2)\: connect timed out
+@default-nexus-http\://repository.atlassian.com/maven2/.lastUpdated=1536573363567
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1536586025839

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 26 12:39:32 CST 2019
+mq-http-sdk-1.0.1-SNAPSHOT-jar-with-dependencies.jar>=
+mq-http-sdk-1.0.1-SNAPSHOT-allinone.zip>=
+mq-http-sdk-1.0.1-SNAPSHOT.jar>=
+mq-http-sdk-1.0.1-SNAPSHOT-sources.jar>=
+mq-http-sdk-1.0.1-SNAPSHOT.pom>=

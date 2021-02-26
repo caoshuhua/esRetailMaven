@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:55 CST 2020
+druid-1.2.1.jar>nexus=
+druid-1.2.1.jar>maven-releases=
+druid-1.2.1.pom>maven-releases=
+druid-1.2.1.jar>alimaven=
+druid-1.2.1.pom>alimaven=
+druid-1.2.1.pom>nexus=
