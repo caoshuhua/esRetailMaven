@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 17:15:01 CST 2021
+lang-tag-1.4.jar>maven-releases=
+lang-tag-1.4.pom>nexus=
+lang-tag-1.4.pom>maven-releases=
+lang-tag-1.4-sources.jar>nexus=
+lang-tag-1.4.jar>nexus=
+lang-tag-1.4.jar>alimaven=
+lang-tag-1.4.pom>alimaven=

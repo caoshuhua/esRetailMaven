@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 22:15:35 CST 2020
+okhttp-3.14.9.pom>nexus=
+okhttp-3.14.9.jar>nexus=
+okhttp-3.14.9.pom>maven-releases=

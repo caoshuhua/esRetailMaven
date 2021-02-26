@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:03 CST 2020
+converter-jackson-2.7.2.jar>alimaven=
+converter-jackson-2.7.2.pom>alimaven=
+converter-jackson-2.7.2.pom>nexus=
+converter-jackson-2.7.2.jar>nexus=
+converter-jackson-2.7.2.jar>maven-releases=
+converter-jackson-2.7.2.pom>maven-releases=

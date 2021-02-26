@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 16 16:33:21 CST 2020
+tpRetailTask_server-0.0.1-sources.jar>=
+tpRetailTask_server-0.0.1.pom>=
+tpRetailTask_server-0.0.1.war>=

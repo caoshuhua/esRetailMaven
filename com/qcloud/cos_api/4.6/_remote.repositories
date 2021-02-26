@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 14:55:31 CST 2021
+cos_api-4.6.pom>maven-releases=
+cos_api-4.6.jar>maven-releases=
+cos_api-4.6.pom>nexus=
+cos_api-4.6.jar>nexus=
+cos_api-4.6.pom>central=
+cos_api-4.6.jar>alimaven=
+cos_api-4.6.pom>alimaven=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 08 19:28:21 CST 2018
+qw_ssp_datasource_user-1.0.0.jar>=
+qw_ssp_datasource_user-1.0.0-sources.jar>=
+qw_ssp_datasource_user-1.0.0.pom>=

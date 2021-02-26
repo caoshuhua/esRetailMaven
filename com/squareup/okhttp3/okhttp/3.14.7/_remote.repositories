@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:03 CST 2020
+okhttp-3.14.7.jar>alimaven=
+okhttp-3.14.7.pom>alimaven=
+okhttp-3.14.7.jar>maven-releases=
+okhttp-3.14.7.pom>maven-releases=
+okhttp-3.14.7.pom>nexus=
+okhttp-3.14.7.jar>nexus=

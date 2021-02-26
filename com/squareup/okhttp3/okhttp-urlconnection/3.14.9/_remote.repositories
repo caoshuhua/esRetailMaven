@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 22:16:17 CST 2020
+okhttp-urlconnection-3.14.9.pom>maven-releases=
+okhttp-urlconnection-3.14.9.pom>nexus=
+okhttp-urlconnection-3.14.9.jar>nexus=

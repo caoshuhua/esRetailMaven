@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:03 CST 2020
+adapter-rxjava-2.7.2.pom>alimaven=
+adapter-rxjava-2.7.2.jar>nexus=
+adapter-rxjava-2.7.2.pom>nexus=
+adapter-rxjava-2.7.2.jar>maven-releases=
+adapter-rxjava-2.7.2.pom>maven-releases=
+adapter-rxjava-2.7.2.jar>alimaven=

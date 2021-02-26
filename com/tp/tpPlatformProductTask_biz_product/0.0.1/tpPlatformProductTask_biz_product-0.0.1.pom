@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.tp</groupId>
+    <artifactId>tpPlatformProductTask</artifactId>
+    <version>0.0.1</version>
+  </parent>
+  <groupId>com.tp</groupId>
+  <artifactId>tpPlatformProductTask_biz_product</artifactId>
+  <version>0.0.1</version>
+  <name>tpPlatformProductTask_biz_product</name>
+  <url>http://maven.apache.org</url>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <dependencies>
+    <dependency>
+			<groupId>com.es</groupId>
+			<artifactId>esPlatformProductTask_api</artifactId>
+		    <version>0.0.5</version>
+	</dependency>
+
+	  <dependency>
+		  <groupId>com.tp</groupId>
+		  <artifactId>tpPlatformProductTask_api</artifactId>
+		  <version>0.0.1</version>
+	  </dependency>
+
+	  <dependency>
+		  <groupId>com.tp</groupId>
+		  <artifactId>tpRetail_pojo</artifactId>
+		  <version>0.0.1</version>
+	  </dependency>
+
+	<dependency>
+			<groupId>com.es</groupId>
+			<artifactId>esPlatformProductTask_dao</artifactId>
+		    <version>0.0.5</version>
+	</dependency>
+	
+	<dependency>
+			<groupId>com.es</groupId>
+			<artifactId>esRetailManager_biz_common</artifactId>
+			<version>0.0.5</version>
+	</dependency>
+	
+	<dependency>
+		<groupId>com.es</groupId>
+		<artifactId>esPlatformProduct_biz_product</artifactId>
+		<version>0.0.5</version>
+	</dependency>
+	
+	<dependency>
+		<groupId>com.es</groupId>
+		<artifactId>esPlatformProductTask_biz_product</artifactId>
+		<version>0.0.5</version>
+	</dependency>
+	
+  </dependencies>
+</project>

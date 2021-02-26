@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 30 19:03:57 CST 2018
+@default-nexus-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1522407837523
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact com.qdm\:qdmBase_api\:pom\:0.0.1 from/to nexus (http\://maven.aliyun.com/nexus/content/groups/public)\: Failed to transfer http\://maven.aliyun.com/nexus/content/groups/public/com/qdm/qdmBase_api/0.0.1/qdmBase_api-0.0.1.pom. Error code 502, Bad Gateway

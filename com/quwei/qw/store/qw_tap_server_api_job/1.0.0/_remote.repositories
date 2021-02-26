@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 13 11:40:56 CST 2019
+qw_tap_server_api_job-1.0.0.jar>=
+qw_tap_server_api_job-1.0.0.pom>=
+qw_tap_server_api_job-1.0.0-sources.jar>=

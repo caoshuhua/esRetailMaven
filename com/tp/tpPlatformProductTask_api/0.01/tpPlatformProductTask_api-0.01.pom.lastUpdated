@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 15 23:47:56 CST 2020
+http\://115.29.137.64\:9028/content/groups/public/.error=Could not transfer artifact com.tp\:tpPlatformProductTask_api\:pom\:0.01 from/to nexus (http\://115.29.137.64\:9028/content/groups/public/)\: Connect to 115.29.137.64\:9028 [/115.29.137.64] failed\: Connection refused\: connect
+@default-nexus-http\://115.29.137.64\:9028/content/groups/public/.lastUpdated=1586965676324

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:03 CST 2020
+oauth2-oidc-sdk-6.5.jar>nexus=
+oauth2-oidc-sdk-6.5.pom>nexus=
+oauth2-oidc-sdk-6.5.jar>maven-releases=
+oauth2-oidc-sdk-6.5.pom>maven-releases=
+oauth2-oidc-sdk-6.5.jar>alimaven=
+oauth2-oidc-sdk-6.5.pom>alimaven=

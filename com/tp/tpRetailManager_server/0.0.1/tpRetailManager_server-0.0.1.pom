@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.tp</groupId>
+    <artifactId>tpRetailManager</artifactId>
+    <version>0.0.1</version>
+  </parent>
+  <groupId>com.tp</groupId>
+  <artifactId>tpRetailManager_server</artifactId>
+  <version>0.0.1</version>
+  <packaging>war</packaging>
+  <name>tpRetailManager_server Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+    
+    <dependency>
+    	<groupId>com.tp</groupId>
+    	<artifactId>tpRetail_resource</artifactId>
+    	<version>0.0.1</version>
+    	<type>war</type>
+    </dependency>
+    
+    <dependency>
+			<groupId>com.es</groupId>
+			<artifactId>esRetailManager_resource</artifactId>
+		<version>${esRetail.version}</version>
+			<type>war</type>
+	</dependency>
+	
+	<dependency>
+			<groupId>com.es</groupId>
+			<artifactId>esPlatformOrgManager_resource</artifactId>
+		<version>${esRetail.version}</version>
+			<type>war</type>
+	</dependency>
+		
+	<dependency>
+			<groupId>com.es</groupId>
+			<artifactId>esSystemOrgManager_resource</artifactId>
+		<version>${esRetail.version}</version>
+			<type>war</type>
+	</dependency>
+	
+	<dependency>
+			<groupId>com.es</groupId>
+			<artifactId>esPlatformContentManager_resource</artifactId>
+		<version>${esRetail.version}</version>
+			<type>war</type>
+	</dependency>
+	
+	<dependency>
+			<groupId>com.es</groupId>
+			<artifactId>esPlatformProductManager_resource</artifactId>
+		<version>${esRetail.version}</version>
+			<type>war</type>
+	</dependency>
+	
+	<dependency>
+			<groupId>com.es</groupId>
+			<artifactId>esShopProductManager_resource</artifactId>
+		<version>${esRetail.version}</version>
+			<type>war</type>
+	</dependency>
+
+    <dependency>
+          <groupId>com.tp</groupId>
+          <artifactId>tpRetailManager_controller</artifactId>
+          <version>0.0.1</version>
+      </dependency>
+
+	  <dependency>
+		  <groupId>com.es</groupId>
+		  <artifactId>esSystemAuthManager_controller</artifactId>
+		  <version>${esRetail.version}</version>
+	  </dependency>
+
+	  <dependency>
+		  <groupId>com.es</groupId>
+		  <artifactId>esSystemAuthManager_resource</artifactId>
+		  <version>${esRetail.version}</version>
+		  <type>war</type>
+	  </dependency>
+
+
+     <!-- job -->
+	  <dependency>
+		  <groupId>com.es</groupId>
+		  <artifactId>esPlatformProductTask_biz_product</artifactId>
+		  <version>${esRetail.version}</version>
+	  </dependency>
+	  <dependency>
+		  <groupId>com.tp</groupId>
+		  <artifactId>tpPlatformProductTask_biz_product</artifactId>
+		  <version>0.0.1</version>
+	  </dependency>
+	  <dependency>
+		  <groupId>org.quartz-scheduler</groupId>
+		  <artifactId>quartz</artifactId>
+		  <version>2.2.1</version>
+	  </dependency>
+	  <dependency>
+		  <groupId>org.quartz-scheduler</groupId>
+		  <artifactId>quartz-jobs</artifactId>
+		  <version>2.2.1</version>
+	  </dependency>
+  </dependencies>
+  <build>
+    <finalName>tpRetailManager_server</finalName>
+  </build>
+</project>

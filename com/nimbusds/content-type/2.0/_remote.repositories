@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 22:16:22 CST 2020
+content-type-2.0.pom>maven-releases=
+content-type-2.0.pom>nexus=
+content-type-2.0.jar>nexus=
