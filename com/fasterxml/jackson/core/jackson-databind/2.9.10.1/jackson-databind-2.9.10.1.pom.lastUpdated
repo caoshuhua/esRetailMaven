@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:16:08 CST 2020
+http\://115.29.137.64\:9028/content/groups/public/.lastUpdated=1585920382005
+http\://115.29.137.64\:8360/content/groups/public/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-databind\:pom\:2.9.10.1 from/to nexus (http\://115.29.137.64\:8360/content/groups/public/)\: Connect to 115.29.137.64\:8360 [/115.29.137.64] failed\: Connection refused\: connect
+@default-nexus-http\://115.29.137.64\:8360/content/groups/public/.lastUpdated=1585920374605
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1607703368867

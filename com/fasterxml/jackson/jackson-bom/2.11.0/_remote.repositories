@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:39 CST 2020
+jackson-bom-2.11.0.pom>maven-releases=
+jackson-bom-2.11.0.pom>alimaven=
+jackson-bom-2.11.0.pom>nexus=

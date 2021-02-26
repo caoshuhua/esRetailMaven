@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:03 CST 2020
+qpid-proton-j-extensions-1.2.3.jar>alimaven=
+qpid-proton-j-extensions-1.2.3.jar>maven-releases=
+qpid-proton-j-extensions-1.2.3.pom>alimaven=
+qpid-proton-j-extensions-1.2.3.pom>nexus=
+qpid-proton-j-extensions-1.2.3.pom>maven-releases=
+qpid-proton-j-extensions-1.2.3.jar>nexus=

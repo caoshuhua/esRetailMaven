@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<project
+		xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+		xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.kuka</groupId>
+		<artifactId>kukaCleanManager</artifactId>
+		<version>0.0.1</version>
+	</parent>
+	<artifactId>kukaCleanManager_biz_clean</artifactId>
+	<name>kukaCleanManager_biz_clean</name>
+	<url>http://maven.apache.org</url>
+
+
+	<dependencies>
+		<dependency>
+			<groupId>com.kuka</groupId>
+			<artifactId>kukaClean_biz_clean</artifactId>
+
+		</dependency>
+		<dependency>
+			<groupId>com.kuka</groupId>
+			<artifactId>kukaCleanManager_api</artifactId>
+
+		</dependency>
+		<dependency>
+			<groupId>com.kuka</groupId>
+			<artifactId>kukaClean_biz_common</artifactId>
+
+		</dependency>
+		<dependency>
+			<groupId>com.kuka</groupId>
+			<artifactId>kukaCleanManager_dao</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>com.kuka</groupId>
+			<artifactId>kukaCleanConsumer_dao</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>com.mayi</groupId>
+			<artifactId>base-service-api</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>com.mayi</groupId>
+			<artifactId>user-service-api</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>com.kuka</groupId>
+			<artifactId>kukaMessageConsumer_api</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>com.kuka</groupId>
+			<artifactId>kukaMessageConsumer_biz_message</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>com.kuka</groupId>
+			<artifactId>kukaOrg_biz_org</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.kuka</groupId>
+			<artifactId>kukaOrg_dal_auto_org</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+
+
+
+		<dependency>
+			<groupId>com.baomidou</groupId>
+			<artifactId>mybatis-plus-extension</artifactId>
+			<scope>compile</scope>
+		</dependency>
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>kukaOrg_po</artifactId>
+            <version>0.0.1</version>
+            <scope>compile</scope>
+        </dependency>
+
+    </dependencies>
+</project>

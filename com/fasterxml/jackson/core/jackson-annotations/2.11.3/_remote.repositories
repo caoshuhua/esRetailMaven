@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:55 CST 2020
+jackson-annotations-2.11.3.jar>alimaven=
+jackson-annotations-2.11.3.pom>nexus=
+jackson-annotations-2.11.3.pom>alimaven=
+jackson-annotations-2.11.3.jar>nexus=
+jackson-annotations-2.11.3.jar>maven-releases=
+jackson-annotations-2.11.3.pom>maven-releases=

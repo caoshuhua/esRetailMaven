@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 22:16:02 CST 2020
+woodstox-core-6.2.1.pom>maven-releases=
+woodstox-core-6.2.1.pom>nexus=
+woodstox-core-6.2.1.jar>nexus=

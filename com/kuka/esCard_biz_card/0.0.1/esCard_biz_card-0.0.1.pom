@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.kuka</groupId>
+    <artifactId>esCardCenter</artifactId>
+    <version>0.0.1</version>
+  </parent>
+  <artifactId>esCard_biz_card</artifactId>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <dependencies>
+    <!--<dependency>-->
+    	<!--<groupId>com.es</groupId>-->
+    	<!--<artifactId>esCard_api</artifactId>-->
+
+    <!--</dependency>-->
+    <!--<dependency>-->
+		<!--<groupId>com.es</groupId>-->
+		<!--<artifactId>esRetail_dal_auto_card</artifactId>-->
+
+	<!--</dependency>-->
+      <dependency>
+      <groupId>com.kuka</groupId>
+      <artifactId>esCard_api</artifactId>
+
+      </dependency>
+      <dependency>
+      <groupId>com.kuka</groupId>
+      <artifactId>esRetail_dal_auto_card</artifactId>
+
+      </dependency>
+     <!--<dependency>-->
+    	<!--<groupId>com.kuka</groupId>-->
+    	<!--<artifactId>esRetail_biz_common</artifactId>-->
+
+    <!--</dependency>-->
+      <!--<dependency>-->
+          <!--<groupId>com.kuka</groupId>-->
+          <!--<artifactId>esRetailManager_biz_common</artifactId>-->
+
+      <!--</dependency>-->
+      <!--<dependency>-->
+          <!--<groupId>com.kuka</groupId>-->
+          <!--<artifactId>esCard_api</artifactId>-->
+      <!--</dependency>-->
+      <!--<dependency>-->
+          <!--<groupId>com.kuka</groupId>-->
+          <!--<artifactId>esRetail_po_card</artifactId>-->
+      <!--</dependency>-->
+      <!--<dependency>-->
+          <!--<groupId>com.kuka</groupId>-->
+          <!--<artifactId>kukaClean_biz_common</artifactId>-->
+      <!--</dependency>-->
+      
+      <dependency>
+          <groupId>com.es</groupId>
+          <artifactId>esMessageTools_biz_message</artifactId>
+          <version>0.0.1</version>
+      </dependency>
+      <dependency>
+          <groupId>com.es</groupId>
+          <artifactId>esMessage_biz_message</artifactId>
+          <version>0.0.1</version>
+      </dependency>
+  </dependencies>
+</project>

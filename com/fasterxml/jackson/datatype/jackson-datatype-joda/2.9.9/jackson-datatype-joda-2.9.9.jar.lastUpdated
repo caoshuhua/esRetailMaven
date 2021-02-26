@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 16:15:43 CST 2021
+http\://121.36.168.137\:9028/content/groups/public/.error=Could not transfer artifact com.fasterxml.jackson.datatype\:jackson-datatype-joda\:jar\:2.9.9 from/to nexus (http\://121.36.168.137\:9028/content/groups/public/)\: Connect to 121.36.168.137\:9028 [/121.36.168.137] failed\: Connection timed out\: connect
+@default-nexus-http\://121.36.168.137\:9028/content/groups/public/.lastUpdated=1610698275132
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1610698276288
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1610698543610

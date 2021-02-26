@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.kuka</groupId>
+        <artifactId>kukaCare</artifactId>
+        <version>0.0.1</version>
+    </parent>
+    <groupId>com.kuka</groupId>
+    <artifactId>kukaCareTask</artifactId>
+    <version>0.0.1</version>
+    <packaging>war</packaging>
+    <name>kukaCareTask Maven Webapp</name>
+    <url>http://maven.apache.org</url>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>test</scope>
+        </dependency>
+
+
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>kukaCleanTask_biz_clean</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>kukaMaintainTask_biz_clean</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>esPlatformCardTask_biz_clean</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>esCardCenter_controller</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>org.quartz-scheduler</groupId>
+            <artifactId>quartz</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.quartz-scheduler</groupId>
+            <artifactId>quartz-jobs</artifactId>
+        </dependency>
+    </dependencies>
+    <build>
+        <finalName>kukaCareTask</finalName>
+    </build>
+</project>

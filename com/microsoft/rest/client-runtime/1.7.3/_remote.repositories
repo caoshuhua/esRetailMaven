@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:03 CST 2020
+client-runtime-1.7.3.pom>alimaven=
+client-runtime-1.7.3.pom>nexus=
+client-runtime-1.7.3.jar>nexus=
+client-runtime-1.7.3.jar>maven-releases=
+client-runtime-1.7.3.pom>maven-releases=
+client-runtime-1.7.3.jar>alimaven=

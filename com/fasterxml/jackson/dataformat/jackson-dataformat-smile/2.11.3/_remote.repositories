@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 22:15:37 CST 2020
+jackson-dataformat-smile-2.11.3.pom>maven-releases=
+jackson-dataformat-smile-2.11.3.pom>nexus=
+jackson-dataformat-smile-2.11.3.jar>nexus=

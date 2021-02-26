@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 17:15:01 CST 2021
+gson-2.2.4.jar>alimaven=
+gson-2.2.4.jar>maven-releases=
+gson-2.2.4.pom>maven-releases=
+gson-2.2.4.pom>alimaven=
+gson-2.2.4-sources.jar>nexus=
+gson-2.2.4.pom>nexus=
+gson-2.2.4.jar>nexus=

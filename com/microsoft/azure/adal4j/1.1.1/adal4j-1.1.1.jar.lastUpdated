@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 17:15:01 CST 2021
+http\://139.224.252.236\:7011/repository/maven-releases/.lastUpdated=1597333165596
+http\://139.224.252.236\:7011/repository/maven-releases/.error=
+http\://115.29.137.64\:8360/content/groups/public/.error=Could not transfer artifact com.microsoft.azure\:adal4j\:jar\:1.1.1 from/to nexus (http\://115.29.137.64\:8360/content/groups/public/)\: Network is unreachable\: connect
+@default-nexus-http\://115.29.137.64\:8360/content/groups/public/.lastUpdated=1550458830945
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1610702101218

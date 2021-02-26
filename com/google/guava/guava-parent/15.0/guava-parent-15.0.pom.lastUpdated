@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 14:54:50 CST 2021
+http\://115.29.137.64\:8081/content/groups/public/.error=Could not transfer artifact com.google.guava\:guava-parent\:pom\:15.0 from/to nexus (http\://115.29.137.64\:8081/content/groups/public/)\: D\:\\maven\\repo\\com\\google\\guava\\guava-parent\\15.0\\aether-ff271dbc-356a-4a92-a9f3-12971539eb3f-guava-parent-15.0.pom-in-progress (\u7CFB\u7EDF\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6587\u4EF6\u3002)
+https\://repo.maven.apache.org/maven2/.lastUpdated=1610693690367
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1607703979149
+@default-nexus-http\://115.29.137.64\:8081/content/groups/public/.lastUpdated=1512449601211

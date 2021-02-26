@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:32:46 CST 2020
+guava-20.0.pom>nexus=
+guava-20.0.jar>nexus=
+guava-20.0.jar>maven-releases=
+guava-20.0.pom>alimaven=
+guava-20.0-sources.jar>nexus=
+guava-20.0.pom>maven-releases=
+guava-20.0.jar>alimaven=

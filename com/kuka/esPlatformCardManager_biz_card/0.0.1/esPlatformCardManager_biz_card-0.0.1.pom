@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>esPlatformCardManager</artifactId>
+        <groupId>com.kuka</groupId>
+        <version>0.0.1</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>esPlatformCardManager_biz_card</artifactId>
+    <version>0.0.1</version>
+
+    <name>esPlatformCardManager_biz_card</name>
+    <!-- FIXME change it to the project's website -->
+    <url>http://www.example.com</url>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>esPlatformCardManager_api</artifactId>
+        </dependency>
+
+        <!--<dependency>-->
+        <!--<groupId>com.kuka</groupId>-->
+        <!--<artifactId>esRetailManager_biz_common</artifactId>-->
+        <!--</dependency>-->
+
+        <!--<dependency>-->
+            <!--<groupId>com.kuka</groupId>-->
+            <!--<artifactId>esRetail_pojo</artifactId>-->
+        <!--</dependency>-->
+
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>esCard_biz_card</artifactId>
+
+        </dependency>
+
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>esRetail_po_card</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>kukaClean_biz_common</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>esRetail_dal_auto_card</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>esCard_api</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>esPloy_api</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.kuka</groupId>
+            <artifactId>kukaOrg_api</artifactId>
+        </dependency>
+    </dependencies>
+
+</project>
