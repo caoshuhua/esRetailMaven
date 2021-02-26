@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:23:44 CST 2020
+byte-buddy-agent-1.7.11.jar>nexus=
+byte-buddy-agent-1.7.11.jar>alimaven=
+byte-buddy-agent-1.7.11.jar>maven-releases=
+byte-buddy-agent-1.7.11.pom>maven-releases=
+byte-buddy-agent-1.7.11.pom>alimaven=
+byte-buddy-agent-1.7.11.pom>nexus=

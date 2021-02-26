@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 29 10:05:38 CST 2020
+http\://115.29.137.64\:8360/content/groups/public/.error=Could not transfer artifact io.thorntail.testsuite\:testsuite-jose-jose4j\:pom\:2.1.0.Final from/to nexus (http\://115.29.137.64\:8360/content/groups/public/)\: Connect to 115.29.137.64\:8360 [/115.29.137.64] failed\: Connection refused\: connect
+@default-nexus-http\://115.29.137.64\:8360/content/groups/public/.lastUpdated=1603937138751

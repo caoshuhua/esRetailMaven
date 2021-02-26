@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:38 CST 2020
+metrics-bom-4.1.7.pom>nexus=
+metrics-bom-4.1.7.pom>maven-releases=
+metrics-bom-4.1.7.pom>alimaven=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:27:34 CST 2020
+parent-2.0-RC3.pom>alimaven=
+parent-2.0-RC3.pom>nexus=
+parent-2.0-RC3.pom>maven-releases=

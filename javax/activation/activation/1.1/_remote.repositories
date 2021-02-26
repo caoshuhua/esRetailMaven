@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 19 13:52:05 CST 2021
+activation-1.1.jar>alimaven=
+activation-1.1.pom>alimaven=
+activation-1.1.jar>nexus=

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:55 CST 2020
+lettuce-core-5.3.5.RELEASE.jar>maven-releases=
+lettuce-core-5.3.5.RELEASE.pom>maven-releases=
+lettuce-core-5.3.5.RELEASE.pom>nexus=
+lettuce-core-5.3.5.RELEASE.jar>alimaven=
+lettuce-core-5.3.5.RELEASE.jar>nexus=
+lettuce-core-5.3.5.RELEASE.pom>alimaven=

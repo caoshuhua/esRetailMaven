@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:40 CST 2020
+micrometer-bom-1.5.1.pom>maven-releases=
+micrometer-bom-1.5.1.pom>alimaven=
+micrometer-bom-1.5.1.pom>nexus=

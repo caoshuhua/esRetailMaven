@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:33:02 CST 2020
+rxjava-2.2.8.jar>maven-releases=
+rxjava-2.2.8.jar>alimaven=
+rxjava-2.2.8.pom>maven-releases=
+rxjava-2.2.8.pom>nexus=
+rxjava-2.2.8.pom>alimaven=
+rxjava-2.2.8.jar>nexus=

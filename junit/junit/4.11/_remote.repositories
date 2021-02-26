@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 19 13:52:42 CST 2021
+junit-4.11.jar>alimaven=
+junit-4.11.pom>alimaven=
+junit-4.11.pom>nexus=
+junit-4.11.jar>nexus=

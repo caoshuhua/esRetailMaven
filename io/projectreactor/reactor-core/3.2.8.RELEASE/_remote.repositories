@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:03 CST 2020
+reactor-core-3.2.8.RELEASE.jar>alimaven=
+reactor-core-3.2.8.RELEASE.pom>nexus=
+reactor-core-3.2.8.RELEASE.pom>alimaven=
+reactor-core-3.2.8.RELEASE.jar>nexus=
+reactor-core-3.2.8.RELEASE.jar>maven-releases=
+reactor-core-3.2.8.RELEASE.pom>maven-releases=

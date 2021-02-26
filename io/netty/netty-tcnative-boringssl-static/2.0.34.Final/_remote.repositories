@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 22:16:03 CST 2020
+netty-tcnative-boringssl-static-2.0.34.Final.pom>nexus=
+netty-tcnative-boringssl-static-2.0.34.Final.jar>nexus=
+netty-tcnative-boringssl-static-2.0.34.Final.pom>maven-releases=

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:32:52 CST 2020
+netty-all-4.0.24.Final.jar>nexus=
+netty-all-4.0.24.Final.jar>maven-releases=
+netty-all-4.0.24.Final.pom>maven-releases=
+netty-all-4.0.24.Final.jar>alimaven=
+netty-all-4.0.24.Final.pom>alimaven=
+netty-all-4.0.24.Final.pom>nexus=

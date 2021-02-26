@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:26:57 CST 2020
+springfox-schema-2.6.1.pom>nexus=
+springfox-schema-2.6.1.jar>nexus=
+springfox-schema-2.6.1.jar>alimaven=
+springfox-schema-2.6.1.pom>alimaven=
+springfox-schema-2.6.1.jar>maven-releases=
+springfox-schema-2.6.1.pom>maven-releases=
