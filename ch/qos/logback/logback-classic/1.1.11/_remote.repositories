@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:32:46 CST 2020
+logback-classic-1.1.11.pom>nexus=
+logback-classic-1.1.11.jar>alimaven=
+logback-classic-1.1.11.jar>maven-releases=
+logback-classic-1.1.11.jar>nexus=
+logback-classic-1.1.11.pom>maven-releases=
+logback-classic-1.1.11.pom>alimaven=
