@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 17:15:03 CST 2021
+spring-jdbc-4.3.16.RELEASE.jar>alimaven=
+spring-jdbc-4.3.16.RELEASE.pom>alimaven=
+spring-jdbc-4.3.16.RELEASE.jar>maven-releases=
+spring-jdbc-4.3.16.RELEASE.pom>maven-releases=
+spring-jdbc-4.3.16.RELEASE.pom>nexus=
+spring-jdbc-4.3.16.RELEASE.jar>nexus=

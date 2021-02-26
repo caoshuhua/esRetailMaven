@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 15:26:36 CST 2021
+spring-boot-starter-log4j-1.3.8.RELEASE.jar>alimaven=
+spring-boot-starter-log4j-1.3.8.RELEASE.pom>alimaven=
+spring-boot-starter-log4j-1.3.8.RELEASE.jar>maven-releases=
+spring-boot-starter-log4j-1.3.8.RELEASE.pom>maven-releases=
+spring-boot-starter-log4j-1.3.8.RELEASE.jar>nexus=
+spring-boot-starter-log4j-1.3.8.RELEASE.pom>nexus=

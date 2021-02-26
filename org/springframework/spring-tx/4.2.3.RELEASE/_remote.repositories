@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 05 14:37:13 CST 2019
+spring-tx-4.2.3.RELEASE-sources.jar>nexus=
+spring-tx-4.2.3.RELEASE.pom>nexus=
+spring-tx-4.2.3.RELEASE.jar>nexus=

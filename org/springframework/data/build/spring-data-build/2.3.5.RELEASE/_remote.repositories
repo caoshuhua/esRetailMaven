@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:20 CST 2020
+spring-data-build-2.3.5.RELEASE.pom>maven-releases=
+spring-data-build-2.3.5.RELEASE.pom>nexus=
+spring-data-build-2.3.5.RELEASE.pom>alimaven=

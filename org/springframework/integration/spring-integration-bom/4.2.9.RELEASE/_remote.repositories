@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 15:26:14 CST 2021
+spring-integration-bom-4.2.9.RELEASE.pom>maven-releases=
+spring-integration-bom-4.2.9.RELEASE.pom>nexus=
+spring-integration-bom-4.2.9.RELEASE.pom>alimaven=

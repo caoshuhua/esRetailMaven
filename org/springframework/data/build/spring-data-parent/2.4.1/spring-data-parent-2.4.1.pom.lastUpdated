@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 09 21:27:57 CST 2020
+http\://121.36.168.137\:9028/content/groups/public/.error=Could not transfer artifact org.springframework.data.build\:spring-data-parent\:pom\:2.4.1 from/to nexus (http\://121.36.168.137\:9028/content/groups/public/)\: Failed to transfer file http\://121.36.168.137\:9028/content/groups/public/org/springframework/data/build/spring-data-parent/2.4.1/spring-data-parent-2.4.1.pom with status code 500
+@default-nexus-http\://121.36.168.137\:9028/content/groups/public/.lastUpdated=1607520477314

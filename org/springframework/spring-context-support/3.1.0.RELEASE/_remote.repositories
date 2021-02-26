@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 05 14:37:44 CST 2019
+spring-context-support-3.1.0.RELEASE-sources.jar>nexus=
+spring-context-support-3.1.0.RELEASE.jar>nexus=
+spring-context-support-3.1.0.RELEASE.pom>nexus=

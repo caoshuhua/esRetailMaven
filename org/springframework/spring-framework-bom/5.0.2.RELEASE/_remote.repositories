@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 10 19:16:41 CST 2020
+spring-framework-bom-5.0.2.RELEASE.pom>maven-releases=
+spring-framework-bom-5.0.2.RELEASE.pom>nexus=

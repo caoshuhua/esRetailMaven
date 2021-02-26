@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 05 14:42:38 CST 2019
+spring-test-4.3.7.RELEASE-sources.jar>nexus=
+spring-test-4.3.7.RELEASE.pom>nexus=
+spring-test-4.3.7.RELEASE.jar>nexus=

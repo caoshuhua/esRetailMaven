@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 14:53:19 CST 2021
+spring-tx-4.0.6.RELEASE.pom>alimaven=
+spring-tx-4.0.6.RELEASE.pom>maven-releases=
+spring-tx-4.0.6.RELEASE.jar>maven-releases=
+spring-tx-4.0.6.RELEASE.jar>nexus=
+spring-tx-4.0.6.RELEASE.pom>nexus=
+spring-tx-4.0.6.RELEASE-sources.jar>nexus=

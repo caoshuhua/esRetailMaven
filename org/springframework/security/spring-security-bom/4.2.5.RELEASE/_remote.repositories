@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:48 CST 2020
+spring-security-bom-4.2.5.RELEASE.pom>maven-releases=
+spring-security-bom-4.2.5.RELEASE.pom>alimaven=
+spring-security-bom-4.2.5.RELEASE.pom>nexus=

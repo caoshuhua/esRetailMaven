@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 03 23:30:44 CST 2020
+http\://115.29.137.64\:9028/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.2.8.RELEASE from/to nexus (http\://115.29.137.64\:9028/content/groups/public/)\: connect timed out
+@default-nexus-http\://115.29.137.64\:9028/content/groups/public/.lastUpdated=1593789828675
+http\://115.29.137.64\:8360/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.2.8.RELEASE from/to nexus (http\://115.29.137.64\:8360/content/groups/public/)\: Connect to 115.29.137.64\:8360 [/115.29.137.64] failed\: Connection timed out\: connect
+@default-nexus-http\://115.29.137.64\:8360/content/groups/public/.lastUpdated=1593790199574
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1593790244700

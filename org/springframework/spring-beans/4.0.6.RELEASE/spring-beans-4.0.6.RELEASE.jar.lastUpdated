@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 14 10:01:33 CST 2020
+http\://115.29.137.64\:8360/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:4.0.6.RELEASE from/to nexus (http\://115.29.137.64\:8360/content/groups/public/)\: Network is unreachable\: connect
+@default-nexus-http\://115.29.137.64\:8360/content/groups/public/.lastUpdated=1550458831761
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1597370493099

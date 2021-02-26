@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:55 CST 2020
+spring-amqp-2.2.12.RELEASE.jar>alimaven=
+spring-amqp-2.2.12.RELEASE.jar>maven-releases=
+spring-amqp-2.2.12.RELEASE.pom>maven-releases=
+spring-amqp-2.2.12.RELEASE.pom>nexus=
+spring-amqp-2.2.12.RELEASE.pom>alimaven=
+spring-amqp-2.2.12.RELEASE.jar>nexus=
