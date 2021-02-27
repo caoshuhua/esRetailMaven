@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Feb 19 13:52:15 CST 2021
-assertj-parent-pom-1.3.6.pom>nexus=
+#Wed Jan 20 17:09:55 CST 2021
+assertj-parent-pom-1.3.6.pom>maven-releases=
 assertj-parent-pom-1.3.6.pom>alimaven=
+assertj-parent-pom-1.3.6.pom>nexus=
