@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 14:55:12 CST 2021
+httpmime-4.5.8.jar>nexus=
+httpmime-4.5.8.pom>nexus=
+httpmime-4.5.8.pom>central=
+httpmime-4.5.8.jar>alimaven=
+httpmime-4.5.8.pom>alimaven=
+httpmime-4.5.8.jar>maven-releases=
+httpmime-4.5.8.pom>maven-releases=

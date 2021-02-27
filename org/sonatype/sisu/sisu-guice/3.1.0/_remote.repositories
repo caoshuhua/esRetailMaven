@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 17:28:49 CST 2021
+sisu-guice-3.1.0-no_aop.jar>maven-releases=
+sisu-guice-3.1.0.pom>nexus=
+sisu-guice-3.1.0.pom>alimaven=
+sisu-guice-3.1.0-no_aop.jar>alimaven=
+sisu-guice-3.1.0.pom>maven-releases=
+sisu-guice-3.1.0-no_aop.jar>nexus=

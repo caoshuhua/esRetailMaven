@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 17:28:46 CST 2021
+commons-parent-3.pom>maven-releases=
+commons-parent-3.pom>nexus=
+commons-parent-3.pom>alimaven=

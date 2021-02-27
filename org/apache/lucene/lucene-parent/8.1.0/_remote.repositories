@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 14:49:13 CST 2021
+lucene-parent-8.1.0.pom>alimaven=
+lucene-parent-8.1.0.pom>nexus=
+lucene-parent-8.1.0.pom>maven-releases=

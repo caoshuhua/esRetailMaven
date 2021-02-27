@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:02 CST 2020
+curator-recipes-2.8.0.jar>maven-releases=
+curator-recipes-2.8.0.pom>nexus=
+curator-recipes-2.8.0.pom>maven-releases=
+curator-recipes-2.8.0.jar>nexus=
+curator-recipes-2.8.0.jar>alimaven=
+curator-recipes-2.8.0.pom>alimaven=

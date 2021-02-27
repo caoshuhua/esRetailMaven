@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 10 19:12:55 CST 2020
+commons-lang3-3.7.jar>maven-releases=
+commons-lang3-3.7.pom>nexus=
+commons-lang3-3.7.pom>maven-releases=
+commons-lang3-3.7.jar>nexus=

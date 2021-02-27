@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 10 19:12:55 CST 2020
+httpcore-4.4.10.jar>maven-releases=
+httpcore-4.4.10.pom>maven-releases=
+httpcore-4.4.10.pom>nexus=
+httpcore-4.4.10.jar>nexus=

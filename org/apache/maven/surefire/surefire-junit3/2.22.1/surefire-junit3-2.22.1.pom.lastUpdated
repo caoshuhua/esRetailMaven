@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 17:20:06 CST 2021
+http\://121.36.168.137\:9028/content/groups/public/.lastUpdated=1607705001397
+http\://115.29.137.64\:8360/content/groups/public/.error=Could not transfer artifact org.apache.maven.surefire\:surefire-junit3\:pom\:2.22.1 from/to nexus (http\://115.29.137.64\:8360/content/groups/public/)\: Connect to 115.29.137.64\:8360 [/115.29.137.64] failed\: Connection refused\: connect
+@default-nexus-http\://115.29.137.64\:8360/content/groups/public/.lastUpdated=1607595382684
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1610702406801

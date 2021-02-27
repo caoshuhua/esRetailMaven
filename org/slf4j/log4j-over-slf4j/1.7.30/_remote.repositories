@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 03 23:38:22 CST 2020
+log4j-over-slf4j-1.7.30.jar>nexus=
+log4j-over-slf4j-1.7.30.pom>nexus=

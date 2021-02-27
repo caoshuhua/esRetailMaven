@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:26:34 CST 2020
+http\://139.224.252.236\:7011/repository/maven-releases/.lastUpdated=1597327507736
+http\://139.224.252.236\:7011/repository/maven-releases/.error=
+http\://115.29.137.64\:8360/content/groups/public/.error=Could not transfer artifact org.apache.poi\:poi\:jar\:3.17 from/to nexus (http\://115.29.137.64\:8360/content/groups/public/)\: Network is unreachable\: connect
+@default-nexus-http\://115.29.137.64\:8360/content/groups/public/.lastUpdated=1550458831675
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1607703994730

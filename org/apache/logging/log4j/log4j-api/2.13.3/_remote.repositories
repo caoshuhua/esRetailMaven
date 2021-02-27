@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:55 CST 2020
+log4j-api-2.13.3.pom>nexus=
+log4j-api-2.13.3.jar>maven-releases=
+log4j-api-2.13.3.jar>nexus=
+log4j-api-2.13.3.pom>maven-releases=
+log4j-api-2.13.3.jar>alimaven=
+log4j-api-2.13.3.pom>alimaven=

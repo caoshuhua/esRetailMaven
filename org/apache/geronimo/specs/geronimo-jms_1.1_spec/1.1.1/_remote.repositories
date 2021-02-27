@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 05 14:37:32 CST 2019
+geronimo-jms_1.1_spec-1.1.1.pom>nexus=
+geronimo-jms_1.1_spec-1.1.1.jar>nexus=
+geronimo-jms_1.1_spec-1.1.1-sources.jar>nexus=

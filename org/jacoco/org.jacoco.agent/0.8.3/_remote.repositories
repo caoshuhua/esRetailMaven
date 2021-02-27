@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 19 13:52:05 CST 2021
+org.jacoco.agent-0.8.3.pom>alimaven=
+org.jacoco.agent-0.8.3.pom>nexus=
+org.jacoco.agent-0.8.3-runtime.jar>alimaven=
+org.jacoco.agent-0.8.3-runtime.jar>nexus=

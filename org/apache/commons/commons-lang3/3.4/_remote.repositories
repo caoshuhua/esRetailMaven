@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 20 17:09:47 CST 2021
+commons-lang3-3.4.pom>maven-releases=
+commons-lang3-3.4.jar>nexus=
+commons-lang3-3.4.pom>nexus=
+commons-lang3-3.4.jar>maven-releases=
+commons-lang3-3.4.jar>alimaven=
+commons-lang3-3.4.pom>alimaven=

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:55 CST 2020
+commons-pool2-2.8.1.jar>nexus=
+commons-pool2-2.8.1.pom>nexus=
+commons-pool2-2.8.1.jar>maven-releases=
+commons-pool2-2.8.1.pom>maven-releases=
+commons-pool2-2.8.1.jar>alimaven=
+commons-pool2-2.8.1.pom>alimaven=

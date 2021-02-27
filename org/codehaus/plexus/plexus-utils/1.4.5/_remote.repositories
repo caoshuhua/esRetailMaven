@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:02 CST 2020
+plexus-utils-1.4.5.jar>maven-releases=
+plexus-utils-1.4.5.pom>maven-releases=
+plexus-utils-1.4.5.jar>nexus=
+plexus-utils-1.4.5.jar>alimaven=
+plexus-utils-1.4.5.pom>alimaven=
+plexus-utils-1.4.5.pom>nexus=

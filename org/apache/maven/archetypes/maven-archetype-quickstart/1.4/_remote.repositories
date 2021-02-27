@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 05 12:50:45 CST 2019
+maven-archetype-quickstart-1.4.pom>nexus=
+maven-archetype-quickstart-1.4.jar>nexus=
+maven-archetype-quickstart-1.4.jar>maven-archetype-quickstart-repo=
+maven-archetype-quickstart-1.4.pom>maven-archetype-quickstart-repo=

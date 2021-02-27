@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 05 14:37:30 CST 2019
+activemq-core-5.4.3.jar>nexus=
+activemq-core-5.4.3-sources.jar>nexus=
+activemq-core-5.4.3.pom>nexus=

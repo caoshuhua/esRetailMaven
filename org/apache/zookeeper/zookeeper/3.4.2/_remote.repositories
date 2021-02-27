@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 05 14:41:31 CST 2019
+zookeeper-3.4.2.pom>nexus=
+zookeeper-3.4.2-sources.jar>nexus=
+zookeeper-3.4.2.jar>nexus=

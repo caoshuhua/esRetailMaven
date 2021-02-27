@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:16 CST 2020
+groovy-bom-2.5.13.pom>maven-releases=
+groovy-bom-2.5.13.pom>alimaven=
+groovy-bom-2.5.13.pom>nexus=

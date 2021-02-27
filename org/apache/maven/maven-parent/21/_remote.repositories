@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 14:45:26 CST 2021
+maven-parent-21.pom>maven-releases=
+maven-parent-21.pom>nexus=
+maven-parent-21.pom>alimaven=

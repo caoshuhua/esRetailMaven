@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:02 CST 2020
+zookeeper-3.4.6.jar>maven-releases=
+zookeeper-3.4.6.jar>alimaven=
+zookeeper-3.4.6.pom>maven-releases=
+zookeeper-3.4.6.pom>alimaven=
+zookeeper-3.4.6.jar>nexus=
+zookeeper-3.4.6.pom>nexus=

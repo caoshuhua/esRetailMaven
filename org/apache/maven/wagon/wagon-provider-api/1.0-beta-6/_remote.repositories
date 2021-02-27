@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 17:28:49 CST 2021
+wagon-provider-api-1.0-beta-6.jar>maven-releases=
+wagon-provider-api-1.0-beta-6.jar>nexus=
+wagon-provider-api-1.0-beta-6.pom>nexus=
+wagon-provider-api-1.0-beta-6.pom>maven-releases=
+wagon-provider-api-1.0-beta-6.jar>alimaven=
+wagon-provider-api-1.0-beta-6.pom>alimaven=

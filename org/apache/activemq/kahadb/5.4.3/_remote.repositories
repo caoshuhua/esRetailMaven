@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 05 14:37:33 CST 2019
+kahadb-5.4.3.pom>nexus=
+kahadb-5.4.3.jar>nexus=
+kahadb-5.4.3-sources.jar>nexus=

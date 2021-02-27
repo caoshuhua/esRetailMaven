@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:32:52 CST 2020
+curator-framework-2.7.1.jar>nexus=
+curator-framework-2.7.1.jar>maven-releases=
+curator-framework-2.7.1.pom>maven-releases=
+curator-framework-2.7.1.jar>alimaven=
+curator-framework-2.7.1.pom>nexus=
+curator-framework-2.7.1.pom>alimaven=

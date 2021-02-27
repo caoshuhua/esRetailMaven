@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 17:23:05 CST 2021
+maven-jar-plugin-3.0.2.jar>maven-releases=
+maven-jar-plugin-3.0.2.pom>maven-releases=
+maven-jar-plugin-3.0.2.pom>nexus=
+maven-jar-plugin-3.0.2.jar>alimaven=
+maven-jar-plugin-3.0.2.jar>nexus=
+maven-jar-plugin-3.0.2.pom>alimaven=

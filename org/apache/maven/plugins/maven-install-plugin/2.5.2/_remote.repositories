@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 14:45:22 CST 2021
+maven-install-plugin-2.5.2.jar>maven-releases=
+maven-install-plugin-2.5.2.pom>maven-releases=
+maven-install-plugin-2.5.2.jar>alimaven=
+maven-install-plugin-2.5.2.pom>nexus=
+maven-install-plugin-2.5.2.pom>alimaven=
+maven-install-plugin-2.5.2.jar>nexus=

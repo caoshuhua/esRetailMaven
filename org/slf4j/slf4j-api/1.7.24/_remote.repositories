@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:32:46 CST 2020
+slf4j-api-1.7.24.jar>alimaven=
+slf4j-api-1.7.24.pom>alimaven=
+slf4j-api-1.7.24.pom>nexus=
+slf4j-api-1.7.24.jar>nexus=
+slf4j-api-1.7.24.jar>maven-releases=
+slf4j-api-1.7.24.pom>maven-releases=

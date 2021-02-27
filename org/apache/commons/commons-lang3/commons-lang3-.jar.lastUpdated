@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 23 17:32:02 CST 2020
+@default-snapshot-repo-http\://maven.michelin.com.cn/artifactory/repository/.lastUpdated=1608715922444
+http\://121.36.168.137\:9028/content/groups/public/.error=
+http\://maven.michelin.com.cn/artifactory/repository/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:jar\: from/to snapshot-repo (http\://maven.michelin.com.cn/artifactory/repository)\: Not authorized , ReasonPhrase\:Unauthorized.
+http\://121.36.168.137\:9028/content/groups/public/.lastUpdated=1608715922397

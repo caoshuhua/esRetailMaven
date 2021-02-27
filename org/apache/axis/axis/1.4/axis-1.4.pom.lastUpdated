@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 16 17:05:14 CST 2020
+http\://115.29.137.64\:8360/content/groups/public/.error=Could not transfer artifact org.apache.axis\:axis\:pom\:1.4 from/to nexus (http\://115.29.137.64\:8360/content/groups/public/)\: Connect to 115.29.137.64\:8360 [/115.29.137.64] failed\: Connection refused\: connect
+@default-nexus-http\://115.29.137.64\:8360/content/groups/public/.lastUpdated=1600246940898
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1600247114268

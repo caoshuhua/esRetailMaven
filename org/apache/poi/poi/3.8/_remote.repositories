@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:02 CST 2020
+poi-3.8.jar>maven-releases=
+poi-3.8.pom>maven-releases=
+poi-3.8.pom>nexus=
+poi-3.8.jar>nexus=
+poi-3.8.jar>alimaven=
+poi-3.8.pom>alimaven=

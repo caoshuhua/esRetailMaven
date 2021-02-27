@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 19:33:00 CST 2020
+maven-compiler-plugin-2.3.2.jar>maven-releases=
+maven-compiler-plugin-2.3.2.jar>nexus=
+maven-compiler-plugin-2.3.2.pom>nexus=
+maven-compiler-plugin-2.3.2.pom>maven-releases=

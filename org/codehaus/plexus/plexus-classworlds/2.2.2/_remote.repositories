@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:02 CST 2020
+plexus-classworlds-2.2.2.jar>alimaven=
+plexus-classworlds-2.2.2.pom>alimaven=
+plexus-classworlds-2.2.2.pom>nexus=
+plexus-classworlds-2.2.2.jar>nexus=
+plexus-classworlds-2.2.2.jar>maven-releases=
+plexus-classworlds-2.2.2.pom>maven-releases=
