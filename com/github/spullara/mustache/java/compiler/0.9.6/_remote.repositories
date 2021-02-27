@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 22:15:54 CST 2020
+compiler-0.9.6.pom>nexus=
+compiler-0.9.6.pom>maven-releases=
+compiler-0.9.6.jar>nexus=

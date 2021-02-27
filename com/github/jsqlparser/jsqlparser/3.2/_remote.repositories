@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:22:55 CST 2020
+jsqlparser-3.2.jar>nexus=
+jsqlparser-3.2.jar>maven-releases=
+jsqlparser-3.2.pom>maven-releases=
+jsqlparser-3.2.jar>alimaven=
+jsqlparser-3.2.pom>nexus=
+jsqlparser-3.2.pom>alimaven=

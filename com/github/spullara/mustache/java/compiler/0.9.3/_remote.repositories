@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 14:55:41 CST 2021
+compiler-0.9.3.pom>central=
+compiler-0.9.3.pom>nexus=
+compiler-0.9.3.jar>maven-releases=
+compiler-0.9.3.pom>maven-releases=
+compiler-0.9.3.jar>nexus=
+compiler-0.9.3.jar>alimaven=
+compiler-0.9.3.pom>alimaven=

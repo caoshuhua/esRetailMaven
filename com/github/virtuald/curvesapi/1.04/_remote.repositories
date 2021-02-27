@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 17:15:01 CST 2021
+curvesapi-1.04.jar>nexus=
+curvesapi-1.04.jar>alimaven=
+curvesapi-1.04.jar>maven-releases=
+curvesapi-1.04.pom>maven-releases=
+curvesapi-1.04.pom>alimaven=
+curvesapi-1.04.pom>nexus=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Feb 18 11:00:30 CST 2019
+http\://115.29.137.64\:8360/content/groups/public/.error=Could not transfer artifact com.github.jsqlparser\:jsqlparser\:jar\:1.2 from/to nexus (http\://115.29.137.64\:8360/content/groups/public/)\: Network is unreachable\: connect
+@default-nexus-http\://115.29.137.64\:8360/content/groups/public/.lastUpdated=1550458830619

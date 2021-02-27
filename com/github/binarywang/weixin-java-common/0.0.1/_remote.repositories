@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 25 14:21:19 CST 2019
+weixin-java-common-0.0.1-sources.jar>=
+weixin-java-common-0.0.1.pom>nexus=
+weixin-java-common-0.0.1.jar>=
+weixin-java-common-0.0.1.jar>nexus=
+weixin-java-common-0.0.1.pom>=

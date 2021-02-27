@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 23 01:20:09 CST 2020
+weixin-java-cp-0.0.9.jar>=
+weixin-java-cp-0.0.9.pom>=
+weixin-java-cp-0.0.9-sources.jar>=

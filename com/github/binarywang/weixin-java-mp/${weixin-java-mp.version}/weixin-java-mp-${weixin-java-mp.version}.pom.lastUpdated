@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 10 12:08:36 CST 2020
+http\://121.36.168.137\:9028/content/groups/public/.error=Could not transfer artifact com.github.binarywang\:weixin-java-mp\:pom\:${weixin-java-mp.version} from/to nexus (http\://121.36.168.137\:9028/content/groups/public/)\: Failed to transfer file http\://121.36.168.137\:9028/content/groups/public/com/github/binarywang/weixin-java-mp/$%7Bweixin-java-mp.version%7D/weixin-java-mp-$%7Bweixin-java-mp.version%7D.pom with status code 400
+@default-nexus-http\://121.36.168.137\:9028/content/groups/public/.lastUpdated=1607573316659

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:32:49 CST 2020
+jedis-lock-1.0.0.pom>alimaven=
+jedis-lock-1.0.0.pom>nexus=
+jedis-lock-1.0.0.jar>nexus=
+jedis-lock-1.0.0.jar>maven-releases=
+jedis-lock-1.0.0.pom>maven-releases=
+jedis-lock-1.0.0.jar>alimaven=

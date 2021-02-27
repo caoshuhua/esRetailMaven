@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 25 16:20:03 CST 2020
+@default-snapshot-repo-http\://maven.michelin.com.cn/artifactory/repository/.lastUpdated=1608884403948
+http\://121.36.168.137\:9028/content/groups/public/.error=Could not transfer artifact com.github.binarywang\:weixin-java-common\:pom\:${esRetail.version} from/to nexus (http\://121.36.168.137\:9028/content/groups/public/)\: Failed to transfer file http\://121.36.168.137\:9028/content/groups/public/com/github/binarywang/weixin-java-common/$%7BesRetail.version%7D/weixin-java-common-$%7BesRetail.version%7D.pom with status code 400
+http\://maven.michelin.com.cn/artifactory/repository/.error=Could not transfer artifact com.github.binarywang\:weixin-java-common\:pom\:${esRetail.version} from/to snapshot-repo (http\://maven.michelin.com.cn/artifactory/repository)\: Not authorized
+@default-nexus-http\://121.36.168.137\:9028/content/groups/public/.lastUpdated=1608884402767
