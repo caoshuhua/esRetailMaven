@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Oct 21 17:59:16 CST 2020
-http\://121.36.168.137\:9028/content/groups/public/.error=
-http\://121.36.168.137\:9028/content/groups/public/.lastUpdated=1603270753843
-http\://115.29.137.64\:8360/content/groups/public/.error=Could not transfer artifact com.github.binarywang\:weixin-java-miniapp\:jar\:0.0.9 from/to nexus (http\://115.29.137.64\:8360/content/groups/public/)\: Connect to 115.29.137.64\:8360 [/115.29.137.64] failed\: Connection refused\: connect
-@default-nexus-http\://115.29.137.64\:8360/content/groups/public/.lastUpdated=1603274356577

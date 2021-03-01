@@ -1,6 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Dec 12 00:15:15 CST 2020
-http\://115.29.137.64\:9028/content/groups/public/.lastUpdated=1585920379979
-http\://115.29.137.64\:8360/content/groups/public/.error=Could not transfer artifact com.github.binarywang\:weixin-java-mp\:pom\:3.7.0 from/to nexus (http\://115.29.137.64\:8360/content/groups/public/)\: Connect to 115.29.137.64\:8360 [/115.29.137.64] failed\: Connection timed out\: connect
-@default-nexus-http\://115.29.137.64\:8360/content/groups/public/.lastUpdated=1585920371847
-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1607703315301
