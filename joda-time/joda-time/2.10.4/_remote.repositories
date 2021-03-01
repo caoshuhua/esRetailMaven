@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 11 22:15:42 CST 2020
+joda-time-2.10.4.pom>maven-releases=
+joda-time-2.10.4.pom>nexus=
+joda-time-2.10.4.jar>nexus=
