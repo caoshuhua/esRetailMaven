@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 17:28:49 CST 2021
+org.eclipse.sisu.inject-0.0.0.M5.jar>nexus=
+org.eclipse.sisu.inject-0.0.0.M5.pom>nexus=
+org.eclipse.sisu.inject-0.0.0.M5.jar>alimaven=
+org.eclipse.sisu.inject-0.0.0.M5.jar>maven-releases=
+org.eclipse.sisu.inject-0.0.0.M5.pom>maven-releases=
+org.eclipse.sisu.inject-0.0.0.M5.pom>alimaven=
