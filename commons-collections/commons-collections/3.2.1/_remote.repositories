@@ -1,3 +1,10 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Feb 19 13:33:45 CST 2021
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 14:55:01 CST 2021
+commons-collections-3.2.1.pom>nexus=
+commons-collections-3.2.1.jar>maven-releases=
+commons-collections-3.2.1.pom>central=
+commons-collections-3.2.1.pom>maven-releases=
+commons-collections-3.2.1.jar>nexus=
+commons-collections-3.2.1-sources.jar>nexus=
+commons-collections-3.2.1.jar>alimaven=
 commons-collections-3.2.1.pom>alimaven=
