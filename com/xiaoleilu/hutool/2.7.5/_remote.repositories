@@ -1,9 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 15 14:55:35 CST 2021
-hutool-2.7.5.pom>alimaven=
-hutool-2.7.5.pom>maven-releases=
-hutool-2.7.5.jar>maven-releases=
-hutool-2.7.5.pom>central=
-hutool-2.7.5.pom>nexus=
-hutool-2.7.5.jar>nexus=
-hutool-2.7.5.jar>alimaven=
