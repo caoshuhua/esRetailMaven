@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:28:02 CST 2020
+elasticsearch-core-6.4.3.pom>nexus=
+elasticsearch-core-6.4.3.jar>nexus=
+elasticsearch-core-6.4.3.jar>alimaven=
+elasticsearch-core-6.4.3.jar>maven-releases=
+elasticsearch-core-6.4.3.pom>maven-releases=
+elasticsearch-core-6.4.3.pom>alimaven=

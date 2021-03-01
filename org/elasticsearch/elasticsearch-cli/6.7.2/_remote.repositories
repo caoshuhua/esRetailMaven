@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 27 11:23:52 CST 2019
+elasticsearch-cli-6.7.2.jar>nexus=
+elasticsearch-cli-6.7.2.pom>nexus=

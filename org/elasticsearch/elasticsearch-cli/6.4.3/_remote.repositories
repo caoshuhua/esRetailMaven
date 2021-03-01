@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 14:55:48 CST 2021
+elasticsearch-cli-6.4.3.jar>nexus=
+elasticsearch-cli-6.4.3.pom>central=
+elasticsearch-cli-6.4.3.pom>maven-releases=
+elasticsearch-cli-6.4.3.jar>maven-releases=
+elasticsearch-cli-6.4.3.jar>alimaven=
+elasticsearch-cli-6.4.3.pom>alimaven=
+elasticsearch-cli-6.4.3.pom>nexus=

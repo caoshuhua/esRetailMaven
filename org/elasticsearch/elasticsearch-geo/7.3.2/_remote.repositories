@@ -1,5 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Feb 19 13:52:05 CST 2021
+#Fri Jan 15 14:49:17 CST 2021
+elasticsearch-geo-7.3.2.jar>maven-releases=
+elasticsearch-geo-7.3.2.pom>maven-releases=
 elasticsearch-geo-7.3.2.jar>alimaven=
 elasticsearch-geo-7.3.2.pom>nexus=
 elasticsearch-geo-7.3.2.pom>alimaven=

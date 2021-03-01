@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 15 14:55:40 CST 2021
+parent-join-client-6.4.3.jar>nexus=
+parent-join-client-6.4.3.jar>maven-releases=
+parent-join-client-6.4.3.jar>alimaven=
+parent-join-client-6.4.3.pom>alimaven=
+parent-join-client-6.4.3.pom>central=
+parent-join-client-6.4.3.pom>maven-releases=
+parent-join-client-6.4.3.pom>nexus=
