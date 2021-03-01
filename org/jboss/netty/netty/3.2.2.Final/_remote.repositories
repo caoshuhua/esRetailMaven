@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 05 14:41:39 CST 2019
+netty-3.2.2.Final-sources.jar>nexus=
+netty-3.2.2.Final.pom>nexus=
+netty-3.2.2.Final.jar>nexus=
