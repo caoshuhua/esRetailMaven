@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:23:44 CST 2020
+xmlunit-core-2.5.1.jar>maven-releases=
+xmlunit-core-2.5.1.pom>maven-releases=
+xmlunit-core-2.5.1.pom>nexus=
+xmlunit-core-2.5.1.jar>alimaven=
+xmlunit-core-2.5.1.jar>nexus=
+xmlunit-core-2.5.1.pom>alimaven=

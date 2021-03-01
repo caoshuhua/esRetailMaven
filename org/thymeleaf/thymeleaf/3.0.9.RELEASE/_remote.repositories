@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:23:44 CST 2020
+thymeleaf-3.0.9.RELEASE.jar>maven-releases=
+thymeleaf-3.0.9.RELEASE.pom>maven-releases=
+thymeleaf-3.0.9.RELEASE.jar>alimaven=
+thymeleaf-3.0.9.RELEASE.pom>alimaven=
+thymeleaf-3.0.9.RELEASE.pom>nexus=
+thymeleaf-3.0.9.RELEASE.jar>nexus=

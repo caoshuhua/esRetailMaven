@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 12 00:23:43 CST 2020
+snakeyaml-1.19.jar>alimaven=
+snakeyaml-1.19.pom>alimaven=
+snakeyaml-1.19.pom>nexus=
+snakeyaml-1.19.jar>maven-releases=
+snakeyaml-1.19.jar>nexus=
+snakeyaml-1.19.pom>maven-releases=
