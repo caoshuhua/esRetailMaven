@@ -1,6 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Feb 19 13:52:49 CST 2021
+#Sat Dec 12 00:32:52 CST 2020
+servlet-api-2.5-sources.jar>nexus=
 servlet-api-2.5.pom>nexus=
-servlet-api-2.5.jar>nexus=
 servlet-api-2.5.jar>alimaven=
+servlet-api-2.5.jar>nexus=
 servlet-api-2.5.pom>alimaven=
+servlet-api-2.5.jar>maven-releases=
+servlet-api-2.5.pom>maven-releases=
